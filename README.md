@@ -1,4 +1,4 @@
-![Header](../github-header-image)
+![MasterHead](./github-header-image)
 <h1 align="center">Hi 👋, I'm Antonio Macan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Croatia but living in Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
